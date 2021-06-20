@@ -2,7 +2,6 @@
 <h3 align="center">Dreamer of New Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashswain&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashswain" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif />
 
 - 🔭 I’m currently working on **Farming Easy**
 
