@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django and Flask**
 
-- 📫 How to reach me **https://www.linkedin.com/in/prabhash-swain-919722170/**
+- 📫 How to reach me **prabhashswain15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
