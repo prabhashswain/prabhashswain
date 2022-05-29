@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhash Swain</h1>
-<h3 align="center">I'm a Full Stack Developer,Software Enthusiast.I enjoy working with technology like Reactjs,Django,Django Rest Framework,Expressjs</h3>
+<h3 align="center">I'm a Full Stack Developer,Software Enthusiast.I enjoy working with technology like Reactjs,Django,Django Rest Framework,Flask,Expressjs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashswain&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashswain" /> </p>
 
